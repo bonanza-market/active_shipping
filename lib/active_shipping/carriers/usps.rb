@@ -368,7 +368,7 @@ module ActiveShipping
               xml.Width("%0.2f" % package.inches(:width))
               xml.Length("%0.2f" % package.inches(:length))
               xml.Height("%0.2f" % package.inches(:height))
-              xml.Girth("%0.2f" % package.inches(:girth))
+              # xml.Girth("%0.2f" % package.inches(:girth))
               is_machinable = if package.options.has_key?(:machinable)
                 package.options[:machinable] ? true : false
               else
