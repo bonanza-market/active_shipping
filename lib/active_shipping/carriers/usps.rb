@@ -31,10 +31,10 @@ module ActiveShipping
       :track => 'TrackV2'
     }
     USE_SSL = {
-      :us_rates => false,
-      :world_rates => false,
+      :us_rates => true,
+      :world_rates => true,
       :test => true,
-      :track => false
+      :track => true
     }
 
     CONTAINERS = {
