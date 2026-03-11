@@ -1,0 +1,6 @@
+{
+  "error": {
+    "code": "NOT_FOUND",
+    "message": "The Postal Service could not locate the tracking information for your request. Please verify your tracking number and try again later."
+  }
+}

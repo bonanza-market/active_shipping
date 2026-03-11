@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebSearch",
+      "WebFetch(domain:developers.usps.com)",
+      "WebFetch(domain:developer.usps.com)",
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "Bash(ruby -c lib/active_shipping/carriers/usps.rb)",
+      "Bash(bundle exec:*)",
+      "Bash(bundle install:*)"
+    ]
+  }
+}

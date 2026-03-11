@@ -1,0 +1,19 @@
+{
+  "totalBasePrice": 6.95,
+  "rates": [
+    {
+      "SKU": "DXPX0XXXXR08070",
+      "description": "Priority Mail 2-Day",
+      "priceType": "RETAIL",
+      "price": 6.95,
+      "weight": 8.82,
+      "dimWeight": 0,
+      "fees": [],
+      "startDate": "2023-01-22",
+      "endDate": "",
+      "warnings": [],
+      "mailClass": "PRIORITY_MAIL",
+      "zone": "08"
+    }
+  ]
+}

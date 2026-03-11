@@ -1,0 +1,19 @@
+{
+  "totalBasePrice": 34.20,
+  "rates": [
+    {
+      "SKU": "IXPX0XXXXR01070",
+      "description": "Priority Mail International",
+      "priceType": "RETAIL",
+      "price": 34.20,
+      "weight": 7.5,
+      "dimWeight": 0,
+      "fees": [],
+      "startDate": "2023-01-22",
+      "endDate": "",
+      "warnings": [],
+      "mailClass": "PRIORITY_MAIL_INTERNATIONAL",
+      "zone": "01"
+    }
+  ]
+}

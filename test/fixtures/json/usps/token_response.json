@@ -1,0 +1,10 @@
+{
+  "access_token": "test_token_12345",
+  "token_type": "Bearer",
+  "issued_at": "1685025600000",
+  "expires_in": "28800",
+  "status": "approved",
+  "scope": "prices tracking",
+  "issuer": "api.usps.com",
+  "client_id": "test_client_id"
+}

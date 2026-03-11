@@ -1,0 +1,19 @@
+{
+  "totalBasePrice": 4.50,
+  "rates": [
+    {
+      "SKU": "DXGA0XXXXR08070",
+      "description": "USPS Ground Advantage",
+      "priceType": "RETAIL",
+      "price": 4.50,
+      "weight": 8.82,
+      "dimWeight": 0,
+      "fees": [],
+      "startDate": "2023-01-22",
+      "endDate": "",
+      "warnings": [],
+      "mailClass": "USPS_GROUND_ADVANTAGE",
+      "zone": "08"
+    }
+  ]
+}
